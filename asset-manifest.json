@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-gihub-pages/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-gihub-pages/static/js/main.f34e456e.js",
+    "static/js/787.8e494960.chunk.js": "/deploy-gihub-pages/static/js/787.8e494960.chunk.js",
+    "index.html": "/deploy-gihub-pages/index.html",
+    "main.073c9b0a.css.map": "/deploy-gihub-pages/static/css/main.073c9b0a.css.map",
+    "main.f34e456e.js.map": "/deploy-gihub-pages/static/js/main.f34e456e.js.map",
+    "787.8e494960.chunk.js.map": "/deploy-gihub-pages/static/js/787.8e494960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f34e456e.js"
+  ]
+}
